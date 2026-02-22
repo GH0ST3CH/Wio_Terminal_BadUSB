@@ -399,7 +399,7 @@ static void bu_draw(const String& stOverride = "", const String& msgOverride = "
     }
     tft.setTextSize(1); tft.setCursor(25, y);
     if (bu_isDir[i]) tft.print("> ");
-    else             tft.print("   ");
+    else             tft.print("");
     tft.print(bu_f[i]);
   }
 
