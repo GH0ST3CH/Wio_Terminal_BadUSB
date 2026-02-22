@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/GH0ST3CH/Wio_Terminal_BadUSB/releases"><img alt="Release" src="https://img.shields.io/github/v/release/GH0ST3CH/Wio_Terminal_BadUSB"></a>
   <a href="https://github.com/GH0ST3CH/Wio_Terminal_BadUSB/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/GH0ST3CH/Wio_Terminal_BadUSB"></a>
-  <a href="https://github.com/GH0ST3CH/Wio_Terminal_BadUSB"><img alt="Platform" src="https://img.shields.io/badge/platform-Wio%20Terminal-blue"></a>
+  <a href="https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started"><img alt="Platform" src="https://img.shields.io/badge/platform-Wio%20Terminal-blue"></a>
   <a href="https://github.com/GH0ST3CH/Wio_Terminal_BadUSB/blob/main/WioBadUSB_syntax_guide.md"><img alt="Syntax" src="https://img.shields.io/badge/payload-syntax%20guide-brightgreen"></a>
 </p>
 
